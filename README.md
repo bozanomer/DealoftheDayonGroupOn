@@ -5,4 +5,4 @@
  
  Deal-of-the-day (also called daily deal or flash sales or one deal a day) is an ecommerce business model in which a website offers a single product for sale for a period of 24 to 36 hours. Potential customers register as members of the deal-a-day websites and receive online offers and invitations by email or social networks.
  
-In this basic project, we withdraw products information from Groupon website and put it into a json file.
+In this basic project, I withdrew products information from Groupon website and put it into a json file.
