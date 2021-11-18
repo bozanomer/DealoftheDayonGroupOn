@@ -1,5 +1,5 @@
 # DealoftheDayonGroupOn
- Withdraw detailed product  information on GroupOn using by scraping.After scraping i put the data into  a json file by using 'scrapy crawl deals -O deals.json' command.
+ Withdraw detailed product  information on GroupOn (https://www.groupon.com/landing/deal-of-the-day) using by scraping.After scraping i put the data into  a json file by using 'scrapy crawl deals -O deals.json' command.
  
  Groupon is an American global e-commerce marketplace connecting subscribers with local merchants by offering activities, travel, goods and services in 15 countries.
  
